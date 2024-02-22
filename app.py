@@ -26,7 +26,7 @@ st.write('Las interfaces de texto a audio son fundamentales en las interfaces mu
 
 text = st.text_input("Ingrese el texto.")
 
-tld="es"
+tld="ja"
 
 def text_to_speech(text, tld):
     
